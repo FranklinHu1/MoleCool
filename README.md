@@ -25,7 +25,7 @@ The main directory for saving lewis structures. Although it is not required that
 
 Directory containing all 100 of the qm7 molecules which can be viewed. 
 
-*__init__.py:*
+*\__init__.py:*
 
 Main file for launching the application
 
