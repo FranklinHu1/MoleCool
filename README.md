@@ -1,5 +1,5 @@
 # MoleCool
-Python Implemented Molecule Visualizer
+A Python Implemented Molecule Visualizer
 **************************************************************************************
 **Welcome to MoleCool!**
 **************************************************************************************
