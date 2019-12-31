@@ -57,7 +57,7 @@ File for translating data from qm7 generated files into actual 3D representation
 **How do I run the project?**
 **************************************************************************************
 
-You've downloaded the code base, so you've already done the hard part! Just open the 
+Downloading the code base is the hard part! After doing that, just open the 
 __init__.py file in an editor and run it. 
 
 **************************************************************************************
